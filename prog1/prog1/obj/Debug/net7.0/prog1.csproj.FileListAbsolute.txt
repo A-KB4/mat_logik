@@ -1,0 +1,14 @@
+F:\fhnt\prog1\prog1\bin\Debug\net7.0\prog1.exe
+F:\fhnt\prog1\prog1\bin\Debug\net7.0\prog1.deps.json
+F:\fhnt\prog1\prog1\bin\Debug\net7.0\prog1.runtimeconfig.json
+F:\fhnt\prog1\prog1\bin\Debug\net7.0\prog1.dll
+F:\fhnt\prog1\prog1\bin\Debug\net7.0\prog1.pdb
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.GeneratedMSBuildEditorConfig.editorconfig
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.AssemblyInfoInputs.cache
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.AssemblyInfo.cs
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.csproj.CoreCompileInputs.cache
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.dll
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\refint\prog1.dll
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.pdb
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\prog1.genruntimeconfig.cache
+F:\fhnt\prog1\prog1\obj\Debug\net7.0\ref\prog1.dll
