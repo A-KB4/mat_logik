@@ -1,0 +1,10 @@
+F:\fhnt\prog2\prog2\bin\Debug\prog2.exe.config
+F:\fhnt\prog2\prog2\bin\Debug\prog2.exe
+F:\fhnt\prog2\prog2\bin\Debug\prog2.pdb
+F:\fhnt\prog2\prog2\obj\Debug\prog2.csproj.AssemblyReference.cache
+F:\fhnt\prog2\prog2\obj\Debug\prog2.Properties.Resources.resources
+F:\fhnt\prog2\prog2\obj\Debug\prog2.csproj.GenerateResource.cache
+F:\fhnt\prog2\prog2\obj\Debug\prog2.csproj.CoreCompileInputs.cache
+F:\fhnt\prog2\prog2\obj\Debug\prog2.exe
+F:\fhnt\prog2\prog2\obj\Debug\prog2.pdb
+F:\fhnt\prog2\prog2\obj\Debug\prog2.MainForm.resources
