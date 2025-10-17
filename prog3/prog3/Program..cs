@@ -1,0 +1,17 @@
+﻿using prog2;
+using System;
+using System.Windows.Forms;
+
+namespace prog3   
+{
+    internal static class Program
+    {
+        [STAThread]
+        private static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new MainForm());
+        }
+    }
+}

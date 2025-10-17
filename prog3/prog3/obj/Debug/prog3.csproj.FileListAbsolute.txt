@@ -1,0 +1,10 @@
+F:\fhnt\prog3\prog3\obj\Debug\prog3.csproj.AssemblyReference.cache
+F:\fhnt\prog3\prog3\obj\Debug\prog2.MainForm.resources
+F:\fhnt\prog3\prog3\obj\Debug\prog3.Properties.Resources.resources
+F:\fhnt\prog3\prog3\obj\Debug\prog3.csproj.GenerateResource.cache
+F:\fhnt\prog3\prog3\obj\Debug\prog3.csproj.CoreCompileInputs.cache
+F:\fhnt\prog3\prog3\bin\Debug\prog3.exe.config
+F:\fhnt\prog3\prog3\bin\Debug\prog3.exe
+F:\fhnt\prog3\prog3\bin\Debug\prog3.pdb
+F:\fhnt\prog3\prog3\obj\Debug\prog3.exe
+F:\fhnt\prog3\prog3\obj\Debug\prog3.pdb
